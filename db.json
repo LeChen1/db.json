@@ -1,5 +1,5 @@
 {
-"prodotti:{
+"prodotti":{
 {
 "nome":"prodotto1",
 "descrizione":"Descrizione del prodottto 1"},
@@ -9,7 +9,7 @@
 },
 {
   "nome":"prodotto3",
-  "descrizione":"Descrizione del prodotto 3
+  "descrizione":"Descrizione del prodotto 3"
 }
 }
 }
